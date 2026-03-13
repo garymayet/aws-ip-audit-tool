@@ -1,6 +1,6 @@
 #!/bin/bash
 ###############################################################################
-#  AWS IP Audit Script — Procafecol INC42131099
+#  AWS IP Audit Script
 #  Objetivo: Listar TODAS las IPs públicas y privadas de una cuenta AWS,
 #            identificar a qué servicio pertenecen, y buscar IPs específicas.
 #
